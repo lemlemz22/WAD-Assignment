@@ -1,3 +1,3 @@
 # WAD-Assignment
 1. CREATE
-[!alt]('screenshots/CREATE.jpg')
+[alt]('screenshots/CREATE.jpg')
